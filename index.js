@@ -17,6 +17,7 @@ import testimonialsRoutes from "./routes/testimonials-routes.js";
 //middleware for library
 app.use(cors());
 app.use(express.json());
+app.use(express.static("./public"));
 
 //middleware for routes
 app.use("/events", eventsRoutes);
