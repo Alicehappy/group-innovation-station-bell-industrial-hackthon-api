@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "group": "Work Stress",
+    "therapist": "Dr. Emily Carter",
+    "description": "Support group focused on managing work-related stress and developing coping strategies.",
+    "day": "Monday"
+  },
+  {
+    "id": 2,
+    "group": "Family Issues",
+    "therapist": "Mr. John Robinson",
+    "description": "Group sessions aimed at addressing family conflicts and improving communication skills.",
+    "day": "Tuesday"
+  },
+  {
+    "id": 3,
+    "group": "Anxiety Management",
+    "therapist": "Dr. Sarah Lee",
+    "description": "Therapy sessions to help individuals manage anxiety and build resilience.",
+    "day": "Wednesday"
+  },
+  {
+    "id": 4,
+    "group": "Depression",
+    "therapist": "Ms. Rachel Green",
+    "description": "Support group for those dealing with depression, fostering a safe space for sharing experiences.",
+    "day": "Thursday"
+  },
+  {
+    "id": 5,
+    "group": "Self-Esteem & Confidence",
+    "therapist": "Mr. Michael Smith",
+    "description": "Empowerment sessions designed to boost self-esteem and confidence through group interactions.",
+    "day": "Friday"
+  }
+]

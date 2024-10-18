@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "name": "Annual Mental Health & Tech Innovation Summit",
+    "date": "2024-11-05",
+    "time": "09:00 AM - 05:00 PM",
+    "location": {
+      "venue": "Bell Headquarters Conference Hall",
+      "city": "Toronto",
+      "address": "100 King St W, Toronto, ON"
+    },
+    "description": "A full-day summit exploring how technology can enhance mental well-being in the workplace. Discussions will focus on innovative strategies to reduce employee stress and promote mental health within the tech industry.",
+    "attendees": 300,
+    "speakers": ["John Smith", "Sarah Lee", "Tom Parker"],
+    "agenda": [
+      {
+        "time": "09:00 AM",
+        "topic": "Welcome & Opening Remarks",
+        "speaker": "John Smith"
+      },
+      {
+        "time": "10:00 AM",
+        "topic": "Tech Solutions for Reducing Workplace Stress",
+        "speaker": "Sarah Lee"
+      },
+      {
+        "time": "02:00 PM",
+        "topic": "Using AI to Foster Mental Wellness at Work",
+        "speaker": "Tom Parker"
+      }
+    ],
+    "registration_link": "https://bell.events/mental-health-tech-summit"
+  },
+  {
+    "id": 2,
+    "name": "Mental Health Wellness Retreat",
+    "date": "2024-10-25",
+    "time": "08:00 AM - 04:00 PM",
+    "location": {
+      "venue": "Mountainview Resort",
+      "city": "Mont-Tremblant",
+      "address": "25 Wellness Way, Mont-Tremblant, QC"
+    },
+    "description": "A serene retreat dedicated to rejuvenating mental health. Participants will engage in yoga, mindfulness, and nature activities aimed at reducing workplace anxiety and burnout, fostering overall well-being.",
+    "attendees": 120,
+    "activities": [
+      { "time": "08:00 AM", "activity": "Morning Yoga" },
+      { "time": "11:00 AM", "activity": "Mindfulness & Meditation Workshop" },
+      { "time": "02:00 PM", "activity": "Nature Hike" }
+    ],
+    "registration_link": "https://bell.events/wellness-retreat"
+  },
+  {
+    "id": 3,
+    "name": "Mental Health & Cybersecurity Awareness Day",
+    "date": "2024-12-01",
+    "time": "10:00 AM - 03:00 PM",
+    "location": {
+      "venue": "Bell Innovation Lab",
+      "city": "Ottawa",
+      "address": "75 Cyber St, Ottawa, ON"
+    },
+    "description": "A workshop addressing the mental health impacts of cybersecurity threats and strategies to alleviate stress related to telecom vulnerabilities.",
+    "attendees": 50,
+    "workshops": [
+      {
+        "time": "10:30 AM",
+        "topic": "Mental Resilience Against Cyber Threats",
+        "instructor": "Eve Turner"
+      },
+      {
+        "time": "01:00 PM",
+        "topic": "Stress Management in Cybersecurity",
+        "instructor": "Jake Wilson"
+      }
+    ],
+    "registration_link": "https://bell.events/cyber-awareness"
+  },
+  {
+    "id": 4,
+    "name": "Mental Resilience Hackathon 2024",
+    "date": "2024-10-15",
+    "time": "09:00 AM - 09:00 PM",
+    "location": {
+      "venue": "Bell Innovation Center",
+      "city": "Toronto",
+      "address": "200 Tech Avenue, Toronto, ON"
+    },
+    "description": "A 12-hour hackathon where teams work on tech solutions that promote mental resilience and well-being. The event emphasizes collaboration and healthy competition.",
+    "attendees": 150,
+    "prizes": [
+      { "position": "1st", "reward": "$5,000 & Innovation Trophy" },
+      { "position": "2nd", "reward": "$2,000" },
+      { "position": "3rd", "reward": "$1,000" }
+    ],
+    "registration_link": "https://bell.events/hackathon"
+  },
+  {
+    "id": 5,
+    "name": "Leadership Development for Mental Well-Being",
+    "date": "2024-11-10",
+    "time": "09:00 AM - 03:00 PM",
+    "location": {
+      "venue": "Bell Leadership Center",
+      "city": "Vancouver",
+      "address": "150 Leader Dr, Vancouver, BC"
+    },
+    "description": "A workshop aimed at building leadership skills with a focus on mental well-being. Sessions will cover stress management and fostering a supportive work environment.",
+    "attendees": 100,
+    "sessions": [
+      {
+        "time": "09:30 AM",
+        "topic": "Communicating for Mental Health",
+        "speaker": "Laura Bennett"
+      },
+      {
+        "time": "11:30 AM",
+        "topic": "Conflict Management and Mental Wellness",
+        "speaker": "Robert Johnson"
+      }
+    ],
+    "registration_link": "https://bell.events/leadership-workshop"
+  },
+  {
+    "id": 6,
+    "name": "Diversity, Inclusion & Mental Health Panel",
+    "date": "2024-12-15",
+    "time": "01:00 PM - 04:00 PM",
+    "location": {
+      "venue": "Bell Corporate Office",
+      "city": "Montreal",
+      "address": "80 Diversity Blvd, Montreal, QC"
+    },
+    "description": "A panel discussion on how diversity and inclusion foster a supportive mental health environment. Panelists will explore strategies for promoting mental wellness in diverse teams.",
+    "attendees": 200,
+    "panelists": ["Maria Lopez", "James Carter", "Amina Sheikh"],
+    "agenda": [
+      {
+        "time": "01:30 PM",
+        "topic": "Creating Inclusive Workplaces for Mental Wellness",
+        "speaker": "Maria Lopez"
+      },
+      {
+        "time": "03:00 PM",
+        "topic": "Empowering Employees from Diverse Backgrounds",
+        "speaker": "Amina Sheikh"
+      }
+    ],
+    "registration_link": "https://bell.events/diversity-panel"
+  },
+  {
+    "id": 7,
+    "name": "Holiday Charity Gala for Mental Health",
+    "date": "2024-12-20",
+    "time": "06:00 PM - 11:00 PM",
+    "location": {
+      "venue": "Bell Convention Center",
+      "city": "Calgary",
+      "address": "500 Gala St, Calgary, AB"
+    },
+    "description": "A charity gala where Bell employees gather to raise funds for mental health initiatives. The evening includes live entertainment and aims to support community mental wellness during the holiday season.",
+    "attendees": 500,
+    "entertainment": ["Live Jazz Band", "Silent Auction", "Holiday Dinner"],
+    "charity_goal": "$100,000",
+    "registration_link": "https://bell.events/holiday-gala"
+  },
+  {
+    "id": 8,
+    "name": "AI for Mental Wellness Workshop",
+    "date": "2024-11-25",
+    "time": "10:00 AM - 03:00 PM",
+    "location": {
+      "venue": "Bell Research Hub",
+      "city": "Ottawa",
+      "address": "90 AI Lane, Ottawa, ON"
+    },
+    "description": "An interactive workshop on how AI can support mental wellness in the workplace by reducing pressure and enhancing employee support systems.",
+    "attendees": 80,
+    "sessions": [
+      {
+        "time": "10:30 AM",
+        "topic": "AI Tools for Mental Wellness",
+        "instructor": "Alice Wong"
+      },
+      {
+        "time": "01:00 PM",
+        "topic": "Automating Support Systems for Better Mental Health",
+        "instructor": "Henry Davis"
+      }
+    ],
+    "registration_link": "https://bell.events/ai-mental-wellness"
+  },
+  {
+    "id": 9,
+    "name": "Employee Appreciation Day: Focus on Mental Health",
+    "date": "2024-11-01",
+    "time": "12:00 PM - 05:00 PM",
+    "location": {
+      "venue": "Bell Corporate Park",
+      "city": "Mississauga",
+      "address": "25 Park Ave, Mississauga, ON"
+    },
+    "description": "An afternoon dedicated to appreciating Bell employees while emphasizing mental health support resources and fostering a positive work culture.",
+    "attendees": 1000,
+    "activities": ["Food Trucks", "Live Band", "Games & Prizes"],
+    "registration_link": "https://bell.events/appreciation-day"
+  },
+  {
+    "id": 10,
+    "name": "Managing Mental Health While Working Remotely Webinar",
+    "date": "2024-10-30",
+    "time": "01:00 PM - 02:00 PM",
+    "location": {
+      "venue": "Online",
+      "city": "Virtual",
+      "address": "N/A"
+    }
+  }
+]

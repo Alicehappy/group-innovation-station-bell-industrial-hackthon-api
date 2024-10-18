@@ -1,0 +1,98 @@
+[
+  {
+    "employee-id": "E001",
+    "name": "Alice Johnson",
+    "job-title": "Software Engineer",
+    "group": "Work Stress",
+    "group-id": 1,
+    "concern": "Feeling overwhelmed by deadlines and workload, struggling to maintain work-life balance."
+  },
+  {
+    "employee-id": "E002",
+    "name": "John Smith",
+    "job-title": "Marketing Specialist",
+    "group": "Family Issues",
+    "group-id": 2,
+    "concern": "Difficulties managing family conflicts at home, which is affecting my focus and productivity at work."
+  },
+  {
+    "employee-id": "E003",
+    "name": "David Lee",
+    "job-title": "Customer Service Manager",
+    "group": "Work Stress",
+    "group-id": 1,
+    "concern": "Experiencing burnout due to constant high demands from clients and the management team."
+  },
+  {
+    "employee-id": "E004",
+    "name": "Emily Rodriguez",
+    "job-title": "Human Resources Coordinator",
+    "group": "Family Issues",
+    "group-id": 2,
+    "concern": "Juggling responsibilities with a new baby at home and struggling to adjust to the demands of parenting and work."
+  },
+  {
+    "employee-id": "E005",
+    "name": "Michael Green",
+    "job-title": "Data Analyst",
+    "group": "Anxiety Management",
+    "group-id": 3,
+    "concern": "Dealing with anxiety around job performance, constantly worried about making mistakes or falling behind on projects."
+  },
+  {
+    "employee-id": "E006",
+    "name": "Laura Bennett",
+    "job-title": "Project Manager",
+    "group": "Depression",
+    "group-id": 4,
+    "concern": "Feeling unmotivated and detached from work, finding it hard to concentrate on tasks, and avoiding social interactions."
+  },
+  {
+    "employee-id": "E007",
+    "name": "Carlos Davis",
+    "job-title": "Network Administrator",
+    "group": "Work Stress",
+    "group-id": 1,
+    "concern": "Struggling to keep up with constant IT emergencies and the pressure to maintain uninterrupted services."
+  },
+  {
+    "employee-id": "E008",
+    "name": "Sophia Carter",
+    "job-title": "UX Designer",
+    "group": "Self-Esteem & Confidence",
+    "group-id": 5,
+    "concern": "Battling self-doubt after a series of negative feedbacks from recent project reviews, unsure of my abilities."
+  },
+  {
+    "employee-id": "E009",
+    "name": "Daniel Thompson",
+    "job-title": "Operations Specialist",
+    "group": "Family Issues",
+    "group-id": 2,
+    "concern": "Strained relationship with partner, creating emotional stress that spills over into my work performance."
+  },
+  {
+    "employee-id": "E010",
+    "name": "Jessica Evans",
+    "job-title": "Business Analyst",
+    "group": "Anxiety Management",
+    "group-id": 3,
+    "concern": "Feeling overwhelmed by frequent changes in project scope and dealing with constant uncertainty in tasks."
+  },
+  {
+    "employee-id": "E011",
+    "name": "Jessica Evans",
+    "job-title": "Business Analyst",
+    "group": "Anxiety Management",
+    "group-id": 3,
+    "concern": "Feeling overwhelmed by frequent changes in project scope and dealing with constant uncertainty in tasks."
+  },
+  {
+    "employee-id": "E0101",
+    "name": "Alice Johnson",
+    "job-title": "Software Engineer",
+    "group": "Work Stress",
+    "group-id": 1,
+    "concern": "Feeling overwhelmed by deadlines and workload, struggling to maintain work-life balance."
+  }
+]

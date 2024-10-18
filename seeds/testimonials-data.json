@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "service": "Internet Services",
+    "customer": "Sarah P.",
+    "location": "Toronto, ON",
+    "comment": "We've been using Bell Fibe Internet for over a year, and the service has been outstanding! The speed is consistently fast, and I've never had any downtime. We stream HD content and work remotely without any interruptions. The installation was quick, and the technician was extremely professional. Highly recommended!"
+  },
+  {
+    "id": 2,
+    "service": "Mobile Services",
+    "customer": "David R.",
+    "location": "Vancouver, BC",
+    "comment": "Switching to Bell Mobility was the best decision I made! The coverage is excellent, even when traveling outside the city. Their 5G speeds are incredible – I can browse and stream with zero buffering. Plus, their customer support team helped me transfer my number seamlessly. Couldn't be happier!"
+  },
+  {
+    "id": 3,
+    "service": "TV Entertainment Services",
+    "customer": "Emily K.",
+    "location": "Ottawa, ON",
+    "comment": "With Bell Fibe TV, I finally have access to all my favorite channels in one place. The picture quality is crystal clear, and the PVR feature allows me to record shows without worrying about missing anything. The On-Demand library is a game-changer for family movie nights!"
+  },
+  {
+    "id": 4,
+    "service": "Bundled Services",
+    "customer": "John M.",
+    "location": "Montreal, QC",
+    "comment": "I bundled my internet, TV, and phone services with Bell, and the experience has been seamless. Their customer service was very responsive, and I got a great deal. The internet speed supports all my family's devices, and the TV package has every channel we love. The whole process was smooth, from installation to billing!"
+  },
+  {
+    "id": 5,
+    "service": "Business Services",
+    "customer": "Linda T.",
+    "location": "Calgary, AB",
+    "comment": "Our small business switched to Bell's Business Internet, and we saw a major improvement in reliability and speed. Video conferences run smoothly, and uploading large files is now quick and easy. The technical support team is always ready to help with any questions. I'd recommend Bell to any business!"
+  },
+  {
+    "id": 6,
+    "service": "Mobile Device Upgrades",
+    "customer": "Matthew S.",
+    "location": "Edmonton, AB",
+    "comment": "I upgraded to the latest iPhone with Bell's trade-in program, and the whole process was hassle-free! The team helped me transfer all my data, and I got a great discount on my new device. Plus, the network coverage has been rock solid no matter where I go."
+  },
+  {
+    "id": 7,
+    "service": "Customer Support Experience",
+    "customer": "Olivia W.",
+    "location": "Halifax, NS",
+    "comment": "Bell's customer service went above and beyond when I had an issue with my Wi-Fi router. The technician arrived the next day, replaced the faulty router, and even optimized my network setup. I was impressed by the quick resolution and friendly service!"
+  },
+  {
+    "id": 8,
+    "service": "Student Plans",
+    "customer": "Alex G.",
+    "location": "Waterloo, ON",
+    "comment": "I recently signed up for Bell's student internet plan, and it's been perfect for my needs. The affordable package offers great speed for streaming, gaming, and studying online. They even gave me a bonus streaming subscription! Bell really understands students' needs."
+  }
+]
